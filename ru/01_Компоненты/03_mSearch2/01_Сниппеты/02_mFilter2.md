@@ -165,7 +165,7 @@
 * **tv** (modTemplateVar) - выборка ТВ параметров.
 * **ms** (msProductData) - выборка полей товара miniShop2, таких как `price`, `article`, `weight` и др.
 * **msoption** (msProductOption) - выборка опций товаров miniShop2, таких как `size`, `color`, `tags` и др.
-* **msvendor** (msVendor) - выборка свойств производителя товара, таких как `title`, `country`, `phone` и др.
+* **msvendor** (msVendor) - выборка свойств производителя товара, таких как `name`, `country`, `phone` и др.
 
 Если вы не указываете кодовое имя таблицы, то будет использовано `resource`. А если вы не указываете фильтр, то будет использован `default`.
 
